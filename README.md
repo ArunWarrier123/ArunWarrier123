@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working On Improving my skills in Backend Development<br>Fascinated By Cloud Technologies and Experienced with GCP services<br>such as = GKE, App Engine , Compute Engine and Cloud SQL<br><br>Are you a Frontend Developer needing help to create a backend <br>your project?? Contact me and let's see if we can figure something<br>out.  :)
+Working On Improving my skills in Backend Development<br>Fascinated By Cloud Technologies and Experienced with GCP services<br>such as = GKE, App Engine , Compute Engine and Cloud SQL<br><br>Are you a Frontend Developer needing help to create a backend <br>your project?? Contact me(DM on LinkedIN) and let's see if we can figure something<br>out.  :)
 
 
 ## 🌐 Socials:
